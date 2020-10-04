@@ -1,4 +1,4 @@
-# JavaGUI-Application
+# JavaGUIApp
 Java GUI Application listening to a Click Event Using Swing
  
  
