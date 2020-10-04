@@ -10,6 +10,10 @@ Java GUI Application listening to a Click Event Using Swing
  calls the implemented method `actionPerformed` which is overridden from the 
  interface `ActionListener`
  
+ ![Java_GUI_APP](https://github.com/priya006/JavaGUI-Application/blob/master/JavaGUI.gif)
+
+
+ 
  The frame closes on exit. 
  
  
